@@ -1,0 +1,597 @@
+id_usuario;nombre;apellido;username;id_cargo;id_municipio;enabled;cuil;fecha_alta
+9506;"ciudadano";"Vicente Lopez";"ciudadanovl";1310;377;True;"";
+28990;"Relevador";"Vicente Lopez";"relevadorvl";1310;377;True;"";2022-10-18 15:11:58,000
+32822;"Formulario";"supervisor";"formsup1";1310;377;True;"";2023-05-29 17:33:52,000
+33717;"administrativo";"Vicente Lopez";"administrativo";1310;377;True;"";2023-07-27 12:34:21,000
+34839;"Contratista";"Prueba";"vlcontratista";1310;377;True;"";2023-10-04 12:39:46,000
+35766;"TESLA";"CONTRATISTA";"ctesla";1310;377;True;"";2024-01-08 14:15:53,000
+37107;"administrativo";"VL";"administrativovl";1310;377;True;"";2024-02-15 15:19:07,000
+37108;"coordinador";"VL";"vlcoordinador";1310;377;True;"";2024-02-15 15:22:17,000
+37109;"Inspector";"Obra";"inspectorvl";1310;377;True;"";2024-02-15 15:25:38,000
+37110;"supervisor";"Arquitecto";"vlsupervisor";1310;377;True;"";2024-02-15 15:28:01,000
+37675;"MAXIMILIANO NICOLAS";"RUFOLO";"maximiliano.rufolo@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:24:42,000
+37676;"ADRIANA MAGDALENA";"LOPEZ";"adrianam.lopez@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:25:37,000
+37677;"LUCILA";"PATIÑO";"lucila.patino@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:26:50,000
+37678;"LILIANA CLAUDIA";"MIGUEZ";"liliana.miguez@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:30:56,000
+37679;"AGUSTÍN";"HERRAEZ";"agustin.herraez@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:34:18,000
+37680;"CANDELA";"FURLAN";"candela.furlan@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:34:41,000
+37681;"GERARDO";"MAYORGA";"gerardo.mayorga@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:35:09,000
+37682;"JORGE";"SACCONE";"jorge.saccone@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:35:33,000
+37683;"PABLO";"BATTISTA";"pablo.battista@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:35:59,000
+37684;"VERONICA ANDREA";"PROTTI";"veronica.protti@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:36:47,000
+37685;"EDUARDO ERNESTO";"TRAVERSO";"eduardo.traverso@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:39:16,000
+37686;"JULIANA";"LINARI";"juliana.linari@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:40:17,000
+37688;"MARIA FLORENCIA";"LAPOLLA";"maria.lapolla@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:46:09,000
+37691;"VERONICA JORGELINA";"ZALAYA";"veronica.zalaya@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:47:37,000
+37695;"Pablo Daniel";"Covi";"pablo.covi@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 10:58:47,000
+37696;"Leandro Nahuel";"Parra";"leandro.parra@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:00:09,000
+37698;"Guillermo Javier";"Varela";"guillermo.varela@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:01:13,000
+37699;"Nicolás Agustín";"Zanolín";"nicolas.zanolin@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:02:23,000
+37701;"Florencia Daniela";"Bugni";"florencia.bugni@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:03:09,000
+37702;"Diego Alberto";"Barreiro";"diego.barreiro@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:03:34,000
+37707;"María Florencia";"López";"mariaf.lopez@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:08:52,000
+37708;"Joaquín Franco";"Escobar";"joaquin.escobar@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:09:39,000
+37711;"Sofía Micaela";"Gonda";"sofia.gonda@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 11:11:06,000
+37712;"PAULA ANDREA";"ROMEO";"paula.romeo@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:23:25,000
+37713;"NORBERTO HECTOR";"DURAN";"norberto.duran@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:24:25,000
+37715;"MARTIN ALBERTO";"GERMAN";"martin.german@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:25:43,000
+37716;"ANA MARIA";"SCAGLIUSI";"ana.scagliusi@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:26:07,000
+37717;"LILIANA BEATRIZ";"BERARDOZZI";"liliana.berardozzi@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:26:29,000
+37719;"KARINA ANDREA";"BURIJSON";"karina.burijson@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:26:59,000
+37720;"CRISTINA  AURORA";"GIRAUD";"cristina.giraud@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:27:25,000
+37721;"ADRIANA BEATRIZ";"FRACCALVIERI";"adriana.fraccalvieri@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:27:50,000
+37722;"PAULA";"ARBIZU";"paula.arbizu@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:28:18,000
+37723;"SERGIO GUSTAVO";"SALAYA";"sergio.salaya@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:28:42,000
+37724;"ALBERTO RICARDO";"APAZA";"alberto.apaza@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:29:12,000
+37725;"MARIA MAGDALENA";"DOMINGUEZ ZARACHO";"mmagdalena.dominguez@vicentelopez.gov.ar";1310;377;True;"";2024-03-12 12:29:38,000
+38490;"ROMINA DAIANA";"GOMELLINI";"romina.gomellini@vicentelopez.gov.ar";1310;377;True;"";2024-04-03 10:11:04,000
+38491;"ELIANE";"BERTE";"eliane.berte@vicentelopez.gov.ar";1310;377;True;"";2024-04-03 10:11:35,000
+38492;"FEDERICO ALFREDO";"ZERBA";"federico.zerba@vicentelopez.gov.ar";1310;377;True;"";2024-04-03 10:12:00,000
+38493;"MATIAS AGUSTIN";"ACOSTA";"matias.acosta@vicentelopez.gov.ar";1310;377;True;"";2024-04-03 10:12:43,000
+39848;"DANIELA VICTORIA";"PAZ";"daniela.paz@vicentelopez.gov.ar";1310;377;True;"";2024-05-07 10:06:57,000
+39849;"NAHUEL AUGUSTO";"PINZONE VECCHIO";"nahuel.pinzone@vicentelopez.gov.ar";1310;377;True;"";2024-05-07 10:08:34,000
+39979;"Maria";"Arci";"maria.arci@vicentelopez.gov.ar";1310;377;True;"";2024-05-10 11:57:33,000
+40335;"CRISTIAN RONALDO";"NEUGEBAUER";"cristian.neugebauer@vicentelopez.gov.ar";1310;377;True;"";2024-05-22 10:43:39,000
+40663;"Briane";"Perez";"briane.perez@vicentelopez.gov.ar";1310;377;True;"";2024-05-30 17:21:39,000
+40858;"ApiVL";"VL";"ApiVL";1310;377;True;"";2024-06-11 15:10:53,000
+40860;"Catalina";"Vivot";"catalina.vivot@vicentelopez.gov.ar";1310;377;True;"";2024-06-11 16:17:35,000
+41056;"Zoe";"Madsen";"zoe.madsen@vicentelopez.gov.ar";1310;377;True;"";2024-06-27 19:08:09,000
+41376;"Lionel";"Bouhet";"lionel.bouhet@vicentelopez.gov.ar";1310;377;True;"";2024-07-16 11:39:38,000
+41377;"Claudia";"Jardo";"claudia.jardo@vicentelopez.gov.ar";1310;377;True;"";2024-07-16 11:42:28,000
+41378;"Juan";"Sosa";"juan.sosa@vicentelopez.gov.ar";1310;377;True;"";2024-07-16 14:47:23,000
+41533;"vicente";"chatbot";"vicentechatbot";1310;377;True;"";2024-07-23 15:02:59,000
+41805;"Juan Manuel";"Vazquez";"jmanuel.vazquez@vicentelopez.gov.ar";1310;377;True;"";2024-08-05 10:13:11,000
+41864;"ENRIQUE";"IMAMURA";"enrique.imamura@vicentelopez.gov.ar";1310;377;True;"";2024-08-06 10:07:45,000
+41971;"Lucas Ezequiel";"Parodi";"lucas.parodi@vicentelpez.gov.ar";1310;377;True;"";2024-08-12 08:35:32,000
+41972;"Daniela";"Dominguez Recalde";"daniela.dominguez@vicentelopez.gov.ar";1310;377;True;"";2024-08-12 08:41:47,000
+41974;"Melina Maria";"Torasso";"melina.torasso@vicentelopez.gov.ar";1310;377;True;"";2024-08-12 09:07:23,000
+41999;"MARIO TOMAS";"GARCIA FERNANDEZ SCHIEDER";"mario.garcia@vicentelopez.gov.ar";1310;377;True;"";2024-08-13 12:49:30,000
+42000;"Ivan Alejandro";"Miño";"ivan.mino@vicentelopez.gov.ar";1310;377;True;"";2024-08-13 13:35:00,000
+42407;"Cristian";"Gammella";"cristian.gammella@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:33:54,000
+42408;"Marcelo";"Rodriguez";"ruben.rodriguez@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:35:36,000
+42409;"Danielo Hernan";"Zusich";"danielo.zusich@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:36:15,000
+42410;"Nicolás";"Ferreyra";"nicolas.ferreyra@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:36:54,000
+42411;"ANTONIO";"Moya";"antonio.moya@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:37:31,000
+42412;"Lucas";"Parodi";"lucas.parodi@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:39:23,000
+42413;"Claudia";"Igelka";"claudia.igelka@vicentelopez.gov.ar";1310;377;True;"";2024-08-19 10:39:49,000
+42414;"Miguel Angel";"Prats";"arq.m.prats@gmail.com";1310;377;True;"";2024-08-19 10:40:16,000
+42415;"Mario";"Anzilutti";"marioanzilutti@hotmail.com";1310;377;True;"";2024-08-19 10:40:43,000
+42651;"Lucas Damian";"Salgueiro";"lucas.salgueiro@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:17:06,000
+42653;"MARIA MICAELA";"ALFARO";"maria.alfaro@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:25:36,000
+42654;"FERNANDO JAVIER";"ROLDAN";"fernando.roldan@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:27:57,000
+42655;"MARIA PILAR";"DIAZ";"mpilar.diaz@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:28:31,000
+42656;"DELFINA MILAGROS";"Rodriguez";"delfina.rodriguez@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:29:17,000
+42657;"PABLO DAMIAN";"RIVERO";"pablo.rivero@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:30:00,000
+42658;"DIEGO ALEJANDRO";"BASILETTI";"diego.basiletti@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:30:31,000
+42659;"LEONARDO MAURICIO";"DELAYGUE TOCCHETTO";"leonardo.delaygue@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:31:16,000
+42660;"NICOLAS";"LUCADAMO";"nicolas.lucadamo@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:31:45,000
+42661;"MARIELA SILVANA";"STORANI";"mariela.storani@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:32:16,000
+42662;"DAVID NICOLAS";"BERLUSCONI";"david.berlusconi@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:33:05,000
+42663;"GUADALUPE SOFIA";"VIÑA";"guadalupe.vina@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:34:34,000
+42664;"HECTOR OMAR";"ZARATE";"omar.zarate@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:35:26,000
+42665;"ANDREA VIVIANA";"REY";"andrea.rey@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:35:55,000
+42666;"MILAGROS FLORENCIA";"IBAÑEZ";"milagros.ibanez@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:38:16,000
+42667;"RODRIGO ESTEBAN";"ALBORNOZ";"rodrigo.albornoz@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:38:48,000
+42668;"DYLAN OSMAR DAIAN";"ZAJUR";"dylan.zajur@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:39:13,000
+42669;"Lucas";"SERRA";"lucas.serra@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:39:43,000
+42670;"Sebastian Diego";"Bentivoglio";"sebastian.bentivoglio@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:40:08,000
+42671;"EDUARDO CHRISTIAN";"EDUARDO CHRISTIAN";"eduardo.torres@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:40:36,000
+42672;"HERNAN VICTOR";"GALLO";"hernan.gallo@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:41:18,000
+42673;"ANABELLA VERONICA";"GROSSI";"anabella.grossi@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:41:53,000
+42674;"LORENA MARIA";"BALDANA MONKMAN";"lorena.baldana@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:42:45,000
+42675;"Daniela";"CASSONI RIPLEY";"daniela.cassoni@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:43:09,000
+42676;"MARIA VALERIA";"ALVAREZ";"valeria.alvarez@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:43:31,000
+42677;"NATALIA";"GRAMUGLIA";"natalia.gramuglia@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:44:23,000
+42678;"Lucas Ariel";"Bonifacio";"lucas.bonifacio@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:44:51,000
+42679;"Diego Martin";"Zapata";"diego.zapata@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:45:17,000
+42681;"PABLO ALEJANDRO";"FERRETTI";"pablo.ferretti@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:46:09,000
+42682;"FABIAN ALEJANDRO";"VEGA";"fabian.vega@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:46:50,000
+42683;"GABRIELA";"MAZZOCCHI";"gabriela.mazzocchi@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:47:25,000
+42684;"EMANUEL GERSON";"DAMIAN CIPION";"emanuel.damian@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:47:53,000
+42685;"JUAN BAUTISTA";"SCORZA";"jbautista.scorza@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:48:18,000
+42686;"JAVIER OVIDIO";"CANTERO";"javier.cantero@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:49:15,000
+42689;"GUILLERMO ANDRES";"Vazquez";"guillermo.vazquez@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:50:27,000
+42690;"DIEGO ENRIQUE";"TEKEL";"diego.tekel@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:50:55,000
+42694;"HERNAN PABLO";"PICCALUGA";"hernan.piccaluga@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:52:43,000
+42695;"CRISTIAN ALFREDO";"VALDEZ";"cristian.valdez@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:53:05,000
+42696;"OSCAR GABRIEL";"FIGUEROA";"oscar.figueroa@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:53:29,000
+42697;"HECTOR RAMON";"FERREIRA";"hector.ferreira@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:55:24,000
+42698;"CRISTINA GRACIELA";"ALBANO";"cristina.albano@vicentelopez.gov.ar";1310;377;True;"";2024-08-22 12:55:51,000
+42747;"ANDREA BEATRIZ";"DENIS";"andrea.denis@vicentelopez.gov.ar";1310;377;True;"";2024-08-27 17:52:11,000
+42748;"VERONICA SILVANA";"BASILE";"veronica.basile@vicentelopez.gov.ar";1310;377;True;"";2024-08-27 17:53:34,000
+42749;"ANA CARMEN";"ROJAS CEDEÑO";"ana.rojas@vicentelopez.gov.ar";1310;377;True;"";2024-08-27 17:55:04,000
+42750;"Marcelo";"Cesasrio";"marcelo.cesasrio@vicentelopez.gov.ar";1310;377;True;"";2024-08-27 18:06:47,000
+42829;"MARCO ANDRES";"VACCARI";"marco.vaccari@vicentelopez.gov.ar";1310;377;True;"";2024-09-03 15:19:20,000
+42831;"Mauro";"Katzenstein";"mkatzenstein";1310;377;True;"";2024-09-03 16:18:57,000
+42879;"Santino";"Giro";"santino.giro@vicentelopez.gov.ar";1310;377;True;"";2024-09-06 10:39:09,000
+42880;"ADRIANA GISELA";"MEDINA";"adriana.medina@vicentelopez.gov.ar";1310;377;True;"";2024-09-06 11:02:26,000
+43012;"Ivan Santiago";"saipert";"ivan.saipert@vicentelopez.gov.ar";1310;377;True;"";2024-09-16 10:33:11,000
+43736;"YAMILA ELISABET";"VILLAGRA";"yamila.villagra@vicentelopez.gov.ar";1310;377;True;"";2024-11-14 11:45:42,000
+44142;"Julio Cesar";"Torres Patiño";"julio.torres@vicentelopez.gov.ar";1310;377;True;"";2024-12-16 11:07:45,000
+44143;"Agustin";"Diaz de Borbon";"agustin.diaz@vicentelopez.gov.ar";1310;377;True;"";2024-12-16 11:15:38,000
+44455;"Julia";"Gallino Sliafertas";"julia.gallino@vicentelopez.gov.ar";1310;377;True;"";2025-01-20 08:40:00,000
+44456;"Soledad Nidia";"Cutuli";"soledad.cutuli@vicentelopez.gov.ar";1310;377;True;"";2025-01-20 08:42:08,000
+44457;"Sabrina";"Begega";"sabrina.begega@vicentelopez.gov.ar";1310;377;True;"";2025-01-20 08:44:44,000
+45354;"Usuario de";"Pruebas";"usup";1310;377;True;"";2025-02-13 19:28:56,000
+45454;"VALENTINA MICAELA";"HAKIMIAN";"valentina.hakimian@vicentelopez.gov.ar";1310;377;True;"";2025-02-18 16:37:25,000
+45489;"GUSTAVO ALEJANDRO";"SCAPARRO";"gustavo.scaparro@vicentelopez.gov.ar";1310;377;True;"";2025-02-21 16:02:59,000
+45494;"PATRICIA CARMEN";"QUIROZ";"patricia.quiroz@vicentelopez.gov.ar";1310;377;True;"";2025-02-21 17:33:12,000
+45557;"EDITH MARLENE";"SANCHEZ BUELA";"marlene.sanchez@vicentelopez.gov.ar";1310;377;True;"";2025-02-26 11:01:14,000
+45558;"JUAN PABLO";"FARIAS";"juan.farias@vicentelopez.gov.ar";1310;377;True;"";2025-02-26 11:07:01,000
+45565;"Leonardo";"Martín";"leonardo.martin@vicentelopez.gov.ar";1310;377;True;"";2025-02-26 15:17:56,000
+45569;"Jose";"Perez";"jose.perez@vicentelopez.gov.ar";1310;377;True;"";2025-02-26 15:36:02,000
+45600;"Germán";"Leiva";"gleiva@tosa-urbaser.com.ar";1310;377;True;"";2025-03-05 10:39:56,000
+45723;"Federico Luis";"Bosch";"federico.bosch@vicentelopez.gov.ar";1310;377;True;"";2025-03-10 15:42:37,000
+46010;"LOURDES";"ZAGARI";"lourdes.zagari@vicentelopez.gov.ar";1310;377;True;"";2025-03-20 12:51:26,000
+46793;"Marcelo Esteban";"Donato";"marcelo.donato@vicentelopez.gov.ar";1310;377;True;"";2025-05-05 09:44:52,000
+46801;"Leandro";"Mosca";"leandro.mosca@vicentelopez.gov.ar";1310;377;True;"";2025-05-05 12:48:46,000
+46898;"Génerico";"Vicente Lopez";"equipo@juntosvicentelopez.com.ar";1310;377;True;"";2025-05-13 14:31:36,000
+47003;"LEONARDO MIGUEL";"ALE";"leonardo.ale@vicentelopez.gov.ar";1310;377;True;"";2025-05-19 18:34:10,000
+47015;"Lucas";"COMMATTEO";"lucas.commatteo@vicentelopez.gov.ar";1310;377;True;"";2025-05-19 18:45:29,000
+47021;"JULIAN RAMON GUSTAVO";"DELL";"julian.dell@vicentelopez.gov.ar";1310;377;True;"";2025-05-19 19:10:56,000
+47099;"JUAN CRUZ";"TORRES GALLESIO";"juan.torres@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 10:56:43,000
+47100;"JONATAN GERARDO";"DOS SANTOS";"jonatan.dossantos@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 11:03:42,000
+47101;"Miguel Angel";"GONZALEZ";"miguel.gonzalez@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 11:12:51,000
+47102;"NESTOR FABIAN";"ARCE";"nestor.arce@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 11:24:58,000
+47103;"JORGE LUIS";"MOYANO";"jorge.moyano@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 11:29:19,000
+47104;"ELBA NOEMI";"Zapata";"elba.zapata@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 11:31:47,000
+47179;"JUAN CARLOS";"Fernandez";"jcarlos.fernandez@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 13:51:07,000
+47200;"Oscar";"Zapata";"oscar.zapata@vicentelopez.gov.ar";1310;377;True;"";2025-05-22 15:28:59,000
+47756;"Sofia Muriel";"Delonghi";"sofia.delonghi@vicentelopez.gov.ar";1310;377;True;"";2025-06-23 13:51:45,000
+47759;"Martina";"Barraza Herrera";"martina.barraza@vicentelopez.gov.ar";1310;377;True;"";2025-06-23 13:54:55,000
+48192;"Andrea Natalia";"Mezzotero";"andrea.mezzotero@vicentelopez.gov.ar";1310;377;True;"";2025-07-11 08:29:10,000
+48193;"Natalia Gabriela";"Mendez";"natalia.mendez@vicentelopez.gov.ar";1310;377;True;"";2025-07-11 08:33:15,000
+48207;"Marina";"Giuggioloni";"marina.giuggioloni@vicentelopez.gov.ar";1310;377;True;"";2025-07-14 07:45:42,000
+48208;"Gabriela Alejandra";"Molina";"gabriela.molina@vicentelopez.gov.ar";1310;377;True;"";2025-07-14 07:49:13,000
+48210;"Carlos Ariel";"Milesi";"carlos.milesi@vicentelopez.gov.ar";1310;377;True;"";2025-07-14 08:23:46,000
+48211;"Suyai Lucila";"Nocera";"suyai.nocera@vicentelopez.gov.ar";1310;377;True;"";2025-07-14 08:53:55,000
+48231;"Juan Roman";"Islas";"jroman.islas@vicentelopez.gov.ar";1310;377;True;"";2025-07-16 10:33:14,000
+48233;"Fernanda";"Semino";"fernanda.semino@vicentelopez.gov.ar";1310;377;True;"";2025-07-16 10:37:31,000
+48454;"Joaquin";"GARCIA";"joaquind.garcia@vicentelopez.gov.ar";1310;377;True;"";2025-07-25 15:16:45,000
+48728;"Silvana Lorena";"Barbosa";"silvana.barbosa@vicentelopez.gov.ar";1310;377;True;"";2025-08-19 09:33:46,000
+48764;"Angel Gabriel";"ROMERO";"angel.romero@vicentelopez.gov.ar";1310;377;True;"";2025-08-22 14:04:07,000
+48812;"DEBORA YANEL";"ROJAS SANCHEZ";"debora.rojas@vicentelopez.gov.ar";1310;377;True;"";2025-08-25 13:10:46,000
+48813;"Cintia";"Ottolini";"cintia.ottolini@vicentelopez.gov.ar";1310;377;True;"";2025-08-25 15:08:55,000
+48849;"Jose Luis";"DUARTE";"jose.duarte@vicentelopez.gov.ar";1310;377;True;"";2025-08-27 19:03:17,000
+48874;"Mariano";"GONZALEZ";"mariano.gonzalezc@vicentelopez.gov.ar";1310;377;True;"";2025-08-29 10:18:58,000
+48962;"Mariana";"Labarba";"mariana.labarba@vicentelopez.gov.ar";1310;377;True;"";2025-09-01 10:20:18,000
+48963;"MARIA BELEN";"Balderrama";"maria.balderrama@vicentelopez.gov.ar";1310;377;True;"";2025-09-01 10:32:27,000
+51129;"Thiago";"Robledo Cuvre";"thiago.robledo@vicentelopez.gov.ar";1310;377;True;"";2025-09-10 10:56:09,000
+51164;"SOFIA";"Reyes Carluccio";"sofia.reyes@vicentelopez.gov.ar";1310;377;True;"";2025-09-12 14:33:55,000
+51192;"Gabriela Natalia";"Trefilio";"gabriela.trefilio@vicentelopez.gov.ar";1310;377;True;"";2025-09-18 12:38:23,000
+37689;"MONICA BEATRIZ";"MONICO";"monica.monico@vicentelopez.gov.ar";1310;377;False;"";2024-03-12 10:46:39,000
+37697;"Miguel";"Cutuli";"miguel.cutuli@vicentelopez.gov.ar";1310;377;False;"";2024-03-12 11:00:46,000
+37705;"Laura Andrea";"Vindigni";"laura.vindigni@vicentelopez.gov.ar";1310;377;False;"";2024-03-12 11:06:39,000
+37706;"Lucía Camila";"Rodriguez Vázquez";"lucia.rodriguez@vicentelopez.gov.ar";1310;377;False;"";2024-03-12 11:08:16,000
+37709;"Chiara Mailén";"Silvio";"chiara.silvio@vicentelopez.gov.ar";1310;377;False;"";2024-03-12 11:10:21,000
+39847;"MONICA ESTHER";"GEREVINI";"monica.gerevini@vicentelopez.gov.ar";1310;377;False;"";2024-05-07 10:05:47,000
+41753;"Juan Manuel";"Vazquez";"Jmanuelvazquez1";1310;377;False;"";2024-07-31 12:53:35,000
+41973;"Claudia Andrea";"Igelka";"claudia.igelka@vicentelope.gov.ar";1310;377;False;"";2024-08-12 09:05:10,000
+42699;"GUILLERMO ARTURO";"BAGLIETTO";"guillermo.baglietto@vicentelopez.gov.ar";1310;377;False;"";2024-08-22 12:56:11,000
+43734;"WALTER ADRIAN";"BECERRA";"walter.becerra@vicentelopez.gov.ar";1310;377;False;"";2024-11-14 11:33:08,000
+42691;"CINTHIA ELIZABETH";"SEGOVIA";"cinthia.segovia@vicentelopez.gov.ar";6154;377;False;"";2024-08-22 12:51:16,000
+46130;"CLAUDIO";"Chemelli";"cchemelli";5240;377;False;"";2025-03-28 09:26:59,000
+46518;"Adriano Carlos";"Bruzzese";"adriano.bruzzese@vicentelopez.gov.ar";6071;377;False;"";2025-04-15 08:29:15,000
+34458;"Pedro";"Ferrero";"pfvlopez";4530;377;True;"";2023-09-29 22:04:35,000
+34473;"Nahuel";"Guerrero";"ngvlopez";4545;377;True;"";2023-09-29 22:04:50,000
+34588;"Josue";"Polastri";"jpvlopez";4660;377;True;"";2023-09-29 22:06:50,000
+34703;"Calidad";"MD";"calidadvlopez";4775;377;True;"";2023-09-29 22:08:50,000
+35015;"Contratista alumb";"Vicente Lopez";"calumbrado";4902;377;True;"";2023-10-30 11:45:14,000
+35016;"Contratista general";"Vicente Lopez";"cgeneral";4902;377;True;"";2023-10-30 11:54:30,000
+35017;"Plazoleta";"SRL";"cplazoleta";4902;377;True;"";2023-10-30 11:55:11,000
+35018;"SALBACO";"S.A.";"csalbaco";4902;377;True;"";2023-10-30 11:56:34,000
+35019;"URBASER";"ARGENTINA S.A";"curbaser";4902;377;True;"";2023-10-30 11:57:36,000
+35020;"KIDE";"CONSTRUCCIONES S.R.L.";"ckide";4902;377;True;"";2023-10-30 11:58:20,000
+35021;"ARTIBUS";"S.A.S";"cartibus";4902;377;True;"";2023-10-30 11:58:57,000
+35022;"FTU";"CONSTRUCCIONES SAU";"cftusau";4902;377;True;"";2023-10-30 12:00:01,000
+35023;"PF Compañía";"Constructora S.A..";"pfcompania";4902;377;True;"";2023-10-30 12:02:20,000
+35024;"LIHUE";"INGENIERÍA SA";"clihue";4902;377;True;"";2023-10-30 12:03:47,000
+35025;"DIENSTEN";"SA";"cdiensten";4902;377;True;"";2023-10-30 12:04:32,000
+35026;"Prueba";"RUC";"cpruebaruc";4902;377;True;"";2023-10-30 12:05:17,000
+35027;"MIG";"SA";"cmigsa";4902;377;True;"";2023-10-30 12:05:59,000
+35767;"PLUBA";"CONTRATISTA";"cpluba";4902;377;True;"";2024-01-08 14:17:11,000
+37111;"Contratista";"VL";"contratistavl";4902;377;True;"";2024-02-15 15:31:04,000
+37674;"MARIA JULIA";"GAMALLO";"maria.gamallo@vicentelopez.gov.ar";5891;377;True;"";2024-03-12 10:23:29,000
+37687;"LOURDES";"LEDESMA";"lourdes.ledesma@vicentelopez.gov.ar";5890;377;True;"";2024-03-12 10:42:07,000
+37690;"RICARDO JAVIER";"UGARTE HERNANDEZ";"ricardo.ugarte@vicentelopez.gov.ar";6156;377;True;"";2024-03-12 10:47:12,000
+37692;"ANGEL";"GONZALEZ";"angel.gonzalez@vicentelopez.gov.ar";4902;377;True;"";2024-03-12 10:48:20,000
+37693;"ANTONIO";"DOTTORI";"antonio.dottori@vicentelopez.gov.ar";4902;377;True;"";2024-03-12 10:49:12,000
+37694;"MARIANO CARLOS";"BOTTO";"mariano.botto@vicentelopez.gov.ar";6056;377;True;"";2024-03-12 10:50:43,000
+37703;"Facundo Ezequiel";"Rodríguez";"facundoe.rodriguez@vicentelopez.gov.ar";6162;377;True;"";2024-03-12 11:04:17,000
+37704;"Jose Luis";"Perrotta";"jluis.perrotta@vicentelopez.gov.ar";6163;377;True;"";2024-03-12 11:05:03,000
+37710;"Rafael Fernández";"López";"rafaelf.lopez@vicentelopez.gov.ar";5999;377;True;"";2024-03-12 11:10:42,000
+37714;"VANINA LORENA";"IURISCI";"vanina.iurisci@vicentelopez.gov.ar";6258;377;True;"";2024-03-12 12:25:05,000
+37726;"HECTOR DAVID";"TREMOULET";"hector.tremoulet@vicentelopez.gov.ar";5793;377;True;"";2024-03-12 12:31:25,000
+37728;"OSCAR EDGARDO";"PIROLI";"oscar.piroli@vicentelopez.gov.ar";5794;377;True;"";2024-03-12 12:33:06,000
+37730;"SANTIAGO DIEGO";"BENINI";"santiago.benini@vicentelopez.gov.ar";5885;377;True;"";2024-03-12 15:45:57,000
+37731;"NATALIA";"MARTIN";"natalia.martin@vicentelopez.gov.ar";5886;377;True;"";2024-03-12 15:46:55,000
+37733;"VERÓNICA";"CECCONI";"veronica.cecconi@vicentelopez.gov.ar";5888;377;True;"";2024-03-12 15:49:25,000
+39915;"IVAN OLAF";"PEÑALVA";"ivan.penalva@vicentelopez.gov.ar";5845;377;True;"";2024-05-08 16:11:35,000
+39916;"ROBERTO ARIEL";"NIÑO";"roberto.nino@vicentelopez.gov.ar";5846;377;True;"";2024-05-08 16:12:44,000
+39917;"SANDRO FLAVIO";"MINALI";"sandro.minali@vicentelopez.gov.ar";5847;377;True;"";2024-05-08 16:13:31,000
+39918;"MIGUEL HORACIO";"ESANDI";"miguel.esandi@vicentelopez.gov.ar";5840;377;True;"";2024-05-08 16:14:37,000
+39919;"Tomas Valentin";"Perez Fausciana";"tomas.fausciana@vicentelopez.gov.ar";5848;377;True;"";2024-05-08 16:15:43,000
+39920;"HELVECIA ALEJANDRA";"BANUERA";"helvecia.banuera@vicentelopez.gov.ar";5849;377;True;"";2024-05-08 16:16:41,000
+39921;"PAOLA NOEMI";"PANNUNZIO";"paola.pannunzio@vicentelopez.gov.ar";5834;377;True;"";2024-05-08 16:17:29,000
+39922;"Jacqueline Alejandra";"Cantou";"jacqueline.cantou@vicentelopez.gov.ar";5850;377;True;"";2024-05-08 16:18:23,000
+39923;"ELIZABETH";"SAMUDIO";"elizabeth.samudio@vicentelopez.gov.ar";5834;377;True;"";2024-05-08 16:19:07,000
+39924;"JAVIER MAXIMILIANO";"PERALTA";"javier.peralta@vicentelopez.gov.ar";5853;377;True;"";2024-05-08 16:19:48,000
+39925;"Jose Luis";"RUIZ";"jose.ruiz@vicentelopez.gov.ar";5844;377;True;"";2024-05-08 16:20:30,000
+39926;"MARIA YOLANDA";"ABAD";"maria.abad@vicentelopez.gov.ar";5834;377;True;"";2024-05-08 16:21:12,000
+39927;"ELIZABETH MARTA";"TORRES";"elizabeth.torres@vicentelopez.gov.ar";5854;377;True;"";2024-05-08 16:21:52,000
+39928;"EMILIANO GABRIEL";"SILVA";"emiliano.silva@vicentelopez.gov.ar";5856;377;True;"";2024-05-08 16:22:37,000
+39929;"MARISA";"Mazzoni";"marisa.mazzoni@vicentelopez.gov.ar";6066;377;True;"";2024-05-08 16:23:19,000
+39930;"MARIA FERNANDA";"GONZALEZ TREGLIA";"fernanda.treglia@vicentelopez.gov.ar";6067;377;True;"";2024-05-08 16:24:05,000
+39931;"GABRIEL";"NEUMANN";"gabriel.neumann@vicentelopez.gov.ar";5884;377;True;"";2024-05-08 16:24:43,000
+39932;"MARIA SOL";"CAETANO DUARTE";"msol.caetano@vicentelopez.gov.ar";5887;377;True;"";2024-05-08 16:28:46,000
+39999;"PABLO";"Cortese";"pablo.cortese@vicentelopez.gov.ar";5838;377;True;"";2024-05-13 15:40:19,000
+40010;"Silvina";"Bianchi";"silvina.bianchi@vicentelopez.gov.ar";5838;377;True;"";2024-05-14 12:45:42,000
+40013;"Tomas";"Rodriguez";"tomas.rodriguez@vicentelopez.gov.ar";5858;377;True;"";2024-05-14 15:04:58,000
+40014;"Valeria";"Galvagni";"valeria.galvagni@vicentelopez.gov.ar";5859;377;True;"";2024-05-14 15:06:11,000
+40015;"Fernanda";"Morelli";"fernanda.morelli@vicentelopez.gov.ar";5842;377;True;"";2024-05-14 15:09:00,000
+40173;"Nestor";"Mela";"nestor.mela@vicentelopez.gov.ar";5792;377;True;"";2024-05-17 13:04:35,000
+40182;"Martín";"Rillo";"mr@mantelectric.com";5795;377;True;"";2024-05-17 19:15:19,000
+40183;"Mauricio Javier";"Gimenez";"gm@mantelectric.com";5795;377;True;"";2024-05-17 19:16:14,000
+40184;"Mantelectric";"1";"gic@mantelectric.com";5795;377;True;"";2024-05-17 19:17:17,000
+40327;"JUAN IGNACIO";"ALBERDI";"juan.alberdi@vicentelopez.gov.ar";5885;377;True;"";2024-05-22 10:38:20,000
+40328;"JUAN CARLOS";"ESPINOZA REINOSO";"jcarlos.espinoza@vicentelopez.gov.ar";5889;377;True;"";2024-05-22 10:39:24,000
+40329;"MAURICIO DE JESUS";"MARQUEZ GOA";"mauricio.marquez@vicentelopez.gov.ar";5889;377;True;"";2024-05-22 10:39:57,000
+40330;"EMILIANO HERNAN";"ROSSI";"emiliano.rossi@vicentelopez.gov.ar";5888;377;True;"";2024-05-22 10:40:34,000
+40331;"JAVIER ALBERTO";"CAMPOS";"javier.campos@vicentelopez.gov.ar";5882;377;True;"";2024-05-22 10:41:40,000
+40332;"MAXIMILIANO DANIEL";"PORRECA";"maximiliano.porreca@vicentelopez.gov.ar";5796;377;True;"";2024-05-22 10:42:10,000
+40333;"LEANDRO FRANCISCO";"CANTONE";"leandro.cantone@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:42:40,000
+40334;"HECTOR HERNAN";"GRASPONI";"hector.grasponi@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:43:10,000
+40336;"DANIEL ALEJANDRO";"CARDINAUX";"daniel.cardinaux@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:44:15,000
+40337;"ALAN DARIO";"PINEDA";"alan.pineda@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:44:42,000
+40338;"EZEQUIEL MAXIMILIANO";"JIGENA";"ezequiel.jigena@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:45:19,000
+40339;"JUAN CRUZ";"Rodriguez";"juancruz.rodriguez@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:45:50,000
+40340;"MATIAS EZEQUIEL";"SARMIENTO";"matias.sarmiento@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:47:38,000
+40341;"AGUSTIN LAUTARO";"LUQUE";"agustin.luque@vicentelopez.gov.ar";5797;377;True;"";2024-05-22 10:48:09,000
+40342;"ANDREA FABIANA";"GERVASONI";"andrea.gervasoni@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:52:04,000
+40343;"KARINA NANCY";"LUCERO";"karina.lucero@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:54:17,000
+40344;"FLORENCIA ELIZABETH";"SOLE";"florencia.sole@vicentelopez.gov.ar";5861;377;True;"";2024-05-22 10:54:46,000
+40345;"SOFIA";"BRIOLA";"sofia.briola@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:55:54,000
+40346;"MAGALI ANDREA";"FERREYRA ZANONE";"magali.ferreyra@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:56:19,000
+40347;"INDIRA DAIANA";"SURGIEL";"indira.surgiel@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:56:58,000
+40348;"NATALIA MARTINA";"DIAZ AVENDAÑO";"natalia.diaz@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 10:57:24,000
+40349;"JULIETA LUNA";"SORAIRES";"julieta.soraires@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 11:04:31,000
+40350;"FERNANDA ELISA";"GOMEZ";"fernanda.gomez@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 11:05:12,000
+40351;"DENISE GABRIELA";"RINALDI";"denise.rinaldi@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 11:05:48,000
+40352;"NAZARENA FABIANA";"JORGE";"nazarena.jorge@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 11:06:53,000
+40353;"SHARON ADRIANA";"BRAVO";"sharon.bravo@vicentelopez.gov.ar";5834;377;True;"";2024-05-22 11:07:27,000
+40355;"MARIA INES";"BAEZ";"ines.baez@vicentelopez.gov.ar";5836;377;True;"";2024-05-22 11:08:00,000
+40356;"GUSTAVO RAUL";"MARTINEZ";"gustavor.martinez@vicentelopez.gov.ar";5837;377;True;"";2024-05-22 11:08:32,000
+40357;"ALEJANDRO ARIEL";"ATILIO";"alejandro.atilio@vicentelopez.gov.ar";5839;377;True;"";2024-05-22 11:09:24,000
+40358;"MARIA EUGENIA";"PESA";"maria.pesa@vicentelopez.gov.ar";5841;377;True;"";2024-05-22 11:10:00,000
+40359;"JORGE HORACIO";"MARTINEZ";"jorge.martinez@vicentelopez.gov.ar";5843;377;True;"";2024-05-22 11:10:26,000
+40367;"CESAR ALBERTO";"ZARINI";"cesar.zarini@vicentelopez.gov.ar";5885;377;True;"";2024-05-22 20:32:10,000
+40514;"Angela";"Gutierres";"angela.gutierres@vicentelopez.gov.ar";5835;377;True;"";2024-05-27 08:58:55,000
+40664;"Fa";"Mantelectric";"fa@mantelectric.com";5795;377;True;"";2024-05-30 17:22:56,000
+40753;"MATIAS EZEQUIEL";"ZERON";"matias.zeron@vicentelopez.gov.ar";5798;377;True;"";2024-06-06 13:50:45,000
+40754;"LUCAS GABRIEL";"VILLALBA";"lucas.villalba@vicentelopez.gov.ar";5799;377;True;"";2024-06-06 13:51:30,000
+40755;"Sofia Selene";"Maiorano";"sofia.maiorano@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:51:55,000
+40756;"IVANA LORENA";"ACUÑA";"ivana.acuna@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:52:34,000
+40757;"AGOSTINA SOLANGE";"LOPEZ PLATNER";"agostina.lopez@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:53:12,000
+40758;"Sergio Anibal";"Ferreyra";"sergio.ferreyra@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:53:43,000
+40759;"Mariano Ezequiel";"Bianco";"mariano.bianco@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:54:14,000
+40760;"AMANDA ZULEMA";"HERRERA TULA";"amanda.herrera@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:54:46,000
+40761;"CAMILA NOEMI";"FASSIO";"camila.fassio@vicentelopez.gov.ar";5800;377;True;"";2024-06-06 13:55:15,000
+40762;"David Eduardo";"Cordido";"david.cordido@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:56:30,000
+40763;"CARINA ANDREA";"PINTOS";"carina.pintos@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:57:15,000
+40764;"FERNANDO SEBASTIAN";"SCHENDEL";"fernando.schendel@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:58:12,000
+40765;"DAIANA SOLANGE";"NAVARIDAS";"daiana.navaridas@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:58:37,000
+40766;"Valeria Jesica";"Veron";"valeria.veron@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:59:00,000
+40767;"Lucas Ezequiel";"Isolani";"lucas.isolani@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:59:22,000
+40768;"Martin Eduardo";"Cohene";"martin.cohene@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 13:59:46,000
+40769;"LUCRECIA CAROLINA";"CALDERONE";"lucrecia.calderone@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:00:41,000
+40770;"ELIAS SEBASTIAN";"CISTERNA";"elias.cisterna@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:01:03,000
+40771;"JULIAN RAIMUNDO";"URIARTE";"julian.uriarte@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:01:29,000
+40772;"Daniela";"BAUTISTA";"daniela.bautista@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:01:51,000
+40773;"Camila";"Fernandez";"camila.fernandez@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:02:17,000
+40774;"LEANDRO GASTON";"VEAS GUTIERREZ";"leandro.veas@vicentelopez.gov.ar";5801;377;True;"";2024-06-06 14:02:40,000
+40775;"VERONICA GRISELDA";"SAID";"veronica.said@vicentelopez.gov.ar";5860;377;True;"";2024-06-06 14:04:00,000
+40776;"ALEJANDRA MARISA";"MONTONATI";"alejandra.montonati@vicentelopez.gov.ar";5861;377;True;"";2024-06-06 14:04:23,000
+40777;"MARIELA BELEN";"CIONCIO";"belen.cioncio@vicentelopez.gov.ar";5853;377;True;"";2024-06-06 14:04:49,000
+40778;"JOSUE KEVIN";"Perez";"josue.perez@vicentelopez.gov.ar";5849;377;True;"";2024-06-06 14:05:12,000
+40779;"MARGARITA";"CANTEROS";"margarita.canteros@vicentelopez.gov.ar";5862;377;True;"";2024-06-06 14:05:34,000
+40780;"FLORENCIA FERNANDA";"FUMASONI";"florencia.fumasoni@vicentelopez.gov.ar";5845;377;True;"";2024-06-06 14:06:01,000
+40781;"MARIA JOSE";"RIOJAS REYES";"mjose.riojas@vicentelopez.gov.ar";5864;377;True;"";2024-06-06 14:06:56,000
+40782;"DIEGO JAVIER";"DURANTE";"diego.durante@vicentelopez.gov.ar";5872;377;True;"";2024-06-06 14:07:17,000
+40783;"SHAIEL SOFIA";"DUARTE DEMATTEI";"shaiel.duarte@vicentelopez.gov.ar";5872;377;True;"";2024-06-06 14:07:43,000
+40784;"MARIA BELEN";"GALLASTEGUI";"mbelen.gallastegui@vicentelopez.gov.ar";5872;377;True;"";2024-06-06 14:08:03,000
+40785;"IRMA LUCIA";"LIUZZI";"lucia.liuzzi@vicentelopez.gov.ar";5873;377;True;"";2024-06-06 14:08:24,000
+40786;"NOEMI BEATRIZ";"CASCO";"noemi.casco@vicentelopez.gov.ar";5874;377;True;"";2024-06-06 14:09:23,000
+40787;"MARIA VICTORIA";"CAMPI";"maria.campi@vicentelopez.gov.ar";5875;377;True;"";2024-06-06 14:09:45,000
+40788;"GABRIELA FERNANDA";"DUARTE";"gabriela.duarte@vicentelopez.gov.ar";5876;377;True;"";2024-06-06 14:10:07,000
+40789;"GISELLE PATRICIA";"VADALA";"giselle.vadala@vicentelopez.gov.ar";5865;377;True;"";2024-06-06 14:10:27,000
+40790;"SILVIA ALICIA";"BRAGA";"silvia.braga@vicentelopez.gov.ar";5866;377;True;"";2024-06-06 14:10:47,000
+40791;"GABRIELA ADRIANA";"CISNEROS";"gabriela.cisneros@vicentelopez.gov.ar";5867;377;True;"";2024-06-06 14:11:21,000
+40792;"Miriam Carolina";"TORRES";"miriam.torres@vicentelopez.gov.ar";5867;377;True;"";2024-06-06 14:11:38,000
+40795;"Mauro";"Bottelli";"mauro.bottelli@vicentelopez.gov.ar";5799;377;True;"";2024-06-06 16:04:06,000
+40835;"CESAR RAUL";"RIAT";"cesar.riat@vicentelopez.gov.ar";5889;377;True;"";2024-06-10 09:19:35,000
+40861;"Juan";"Fittipaldi";"juan.fittipaldi@vicentelopez.gov.ar";6065;377;True;"";2024-06-11 16:21:32,000
+40919;"MATIAS GABRIEL";"BRIANTE PALAVECINO";"matias.briante@vicentelopez.gov.ar";5850;377;True;"";2024-06-14 16:18:11,000
+40920;"DOLORES";"ALONSO";"dolores.alonso@vicentelopez.gov.ar";5868;377;True;"";2024-06-14 16:19:35,000
+40921;"EDUARDO DIMAS";"ROMERO";"eduardo.romero@vicentelopez.gov.ar";5880;377;True;"";2024-06-14 16:20:22,000
+40922;"FABIAN OSCAR";"SCIBILIA";"fabian.scibilia@vicentelopez.gov.ar";5880;377;True;"";2024-06-14 16:21:10,000
+40923;"Esteban";"Delenikas";"esteban.delenikas@vicentelopez.gov.ar";5792;377;True;"";2024-06-14 16:27:45,000
+40926;"Susana";"Alarcon";"susana.alarcon@vicentelopez.gov.ar";5853;377;True;"";2024-06-18 08:25:09,000
+40927;"Florencia";"Bitterbo";"florencia.bitterbo@vicentelopez.gov.ar";5853;377;True;"";2024-06-18 08:26:21,000
+40942;"Fabio";"Dori";"fabio.dori@vicentelopez.gov.ar";5799;377;True;"";2024-06-19 12:09:36,000
+40943;"Dario";"regueiro";"dario.regueiro@vicentelopez.gov.ar";5799;377;True;"";2024-06-19 12:10:50,000
+41053;"Luis";"LUQUE";"luis.luque@vicentelopez.gov.ar";5889;377;True;"";2024-06-27 18:43:13,000
+41054;"Horacio";"Felgueroso";"horacio.felgueroso@vicentelopez.gov.ar";5869;377;True;"";2024-06-27 18:47:15,000
+41055;"Maria";"Pinero";"maria.pinero@vicentelopez.gov.ar";5848;377;True;"";2024-06-27 18:49:30,000
+41062;"DSR";"ARQUITECTURA";"dsrarquitectura";4902;377;True;"";2024-06-28 15:10:52,000
+41102;"Francisco";"MINALI";"francisco.minali@vicentelopez.gov.ar";5881;377;True;"";2024-07-02 15:08:30,000
+41114;"Laura";"spir";"laura.spir@vicentelopez.gov.ar";5834;377;True;"";2024-07-03 13:50:38,000
+41147;"Sergio";"TORRES";"sergio.torres@vicentelopez.gov.ar";5870;377;True;"";2024-07-08 09:52:49,000
+41386;"PAULA SABINA";"PIRROTTA";"paula.pirrotta@vicentelopez.gov.ar";4902;377;True;"";2024-07-17 10:37:07,000
+41411;"CAROLA INES";"BRANDARIZ";"carola.brandariz@vicentelopez.gov.ar";5877;377;True;"";2024-07-18 15:14:20,000
+41419;"Ignacio";"Spitale";"ignacio.spitale@vicentelopez.gov.ar";5877;377;True;"";2024-07-18 18:58:27,000
+41420;"Santiago";"Quiros";"santiago.quiros@vicentelopez.gov.ar";5878;377;True;"";2024-07-18 19:06:32,000
+41656;"SABRINA MURIEL";"O´DONNELL";"sabrina.odonnell@vicentelopez.gov.ar";5879;377;True;"";2024-07-26 09:26:40,000
+41677;"DIEGO GABRIEL";"VILLANUEVA";"diego.villanueva@vicentelopez.gov.ar";5797;377;True;"";2024-07-26 14:15:20,000
+41809;"Carolina";"Azpilicueta";"carolina.azpilicueta@vicentelopez.gov.ar";5820;377;True;"";2024-08-05 14:45:27,000
+41810;"Mariana";"Del Hierro";"mariana.delhierro@vicentelopez.gov.ar";5820;377;True;"";2024-08-05 15:41:52,000
+42680;"EDUARDO DANIEL";"CORTES";"eduardo.cortes@vicentelopez.gov.ar";5832;377;True;"";2024-08-22 12:45:42,000
+42687;"PATRICIA MISAEL";"VALENCIA DOMINGUEZ";"patricia.valencia@vicentelopez.gov.ar";6166;377;True;"";2024-08-22 12:49:37,000
+42688;"JORGE FERNANDO";"CABRERA ESPOSITO";"jorge.cabrera@vicentelopez.gov.ar";6258;377;True;"";2024-08-22 12:50:06,000
+42692;"RAUL ERNESTO";"BUCKMEIER";"raul.buckmeier@vicentelopez.gov.ar";6165;377;True;"";2024-08-22 12:51:54,000
+42693;"LUCAS ERWIN";"LLOBET";"lucas.llobet@vicentelopez.gov.ar";6169;377;True;"";2024-08-22 12:52:20,000
+42969;"Enzo Gabriel";"Ripullone";"enzo.ripullone@vicentelopez.gov.ar";4902;377;True;"";2024-09-11 12:04:11,000
+43026;"MARIA DE LOS ANGELES";"PINTO";"mangeles.pinto@vicentelopez.gov.ar";4902;377;True;"";2024-09-18 10:04:52,000
+43389;"Royman Rafael";"Angulo Aular";"royman.angulo@vicentelopez.gov.ar";5887;377;True;"";2024-10-18 08:27:30,000
+43586;"Fritel";"S.A.";"fritel";5240;377;True;"";2024-10-30 11:40:47,000
+43601;"VERONICA ANDREA";"Zurbano Zapico";"veronica.zurbano@vicentelopez.gov.ar";5803;377;True;"";2024-10-31 11:55:38,000
+43731;"Claudia Andrea";"BARBAJELATA";"claudia.barbajelata@vicentelopez.gov.ar";5804;377;True;"";2024-11-14 11:06:30,000
+43732;"Alexis Mariano";"Sanchez";"alexis.sanchez@vicentelopez.gov.ar";5805;377;True;"";2024-11-14 11:18:13,000
+43733;"LORENA VANESA";"CORTES";"lorena.cortes@vicentelopez.gov.ar";5806;377;True;"";2024-11-14 11:25:02,000
+44129;"Pilar";"Alvarez Ochoa";"paovicentelopez";4530;377;True;"";2024-12-13 09:20:41,000
+44270;"Iara Yazmin";"Robledo";"iara.robledo@vicentelopez.gov.ar";5834;377;True;"";2025-01-06 11:11:37,000
+44396;"Julian David";"Mambrin";"julian.mambrin@vicentelopez.gov.ar";5806;377;True;"";2025-01-15 16:38:47,000
+44483;"Camila Belén";"Gauto";"camila.gauto@vicentelopez.gov.ar";5834;377;True;"";2025-01-21 11:22:59,000
+44484;"Marcela Elisabeth";"MEDINA";"marcela.medina@vicentelopez.gov.ar";5834;377;True;"";2025-01-21 11:55:32,000
+45222;"Tomas";"Ratti";"tomas.ratti@vicentelopez.gov.ar";5834;377;True;"";2025-02-07 10:24:13,000
+45223;"Camila";"Chaile";"camila.chaile@vicentelopez.gov.ar";5834;377;True;"";2025-02-07 10:26:35,000
+45364;"Martín";"Ojeda";"martin.ojeda@vicentelopez.gov.ar";5833;377;True;"";2025-02-14 10:51:21,000
+45365;"Ramón";"Ojeda";"ramon.ojeda@vicentelopez.gov.ar";5833;377;True;"";2025-02-14 10:54:06,000
+45366;"Gustavo";"Abella";"gustavo.abella@vicentelopez.gov.ar";5833;377;True;"";2025-02-14 10:54:38,000
+45378;"CARLOS DANIEL";"RIOBOO";"carlos.rioboo@vicentelopez.gov.ar";5802;377;True;"";2025-02-14 15:38:51,000
+45379;"ANA BELEN";"FERRO";"ana.ferro@vicentelopez.gov.ar";5807;377;True;"";2025-02-14 15:39:26,000
+45380;"CAROLINA NAHIR";"ZAJUR";"carolina.zajur@vicentelopez.gov.ar";5808;377;True;"";2025-02-14 15:40:19,000
+45381;"GIULIANA";"RASTELLI";"giuliana.rastelli@vicentelopez.gov.ar";5809;377;True;"";2025-02-14 15:41:01,000
+45382;"GABRIELA";"GIACOIA";"gabriela.giacoia@vicentelopez.gov.ar";5827;377;True;"";2025-02-14 15:41:51,000
+45383;"MARIA BELEN";"DRIOL";"mbelen.driol@vicentelopez.gov.ar";5828;377;True;"";2025-02-14 15:42:33,000
+45384;"OSCAR DANIEL";"MAIDANA";"oscar.maidana@vicentelopez.gov.ar";5810;377;True;"";2025-02-14 15:43:03,000
+45385;"HERNAN JORGE";"ALVAREZ";"hernanj.alvarez@vicentelopez.gov.ar";5811;377;True;"";2025-02-14 15:43:44,000
+45386;"FABIAN DARIO";"BISIGNANO";"fabian.bisignano@vicentelopez.gov.ar";5812;377;True;"";2025-02-14 15:44:26,000
+45387;"YAMILA SOLEDAD";"GIOVARI";"yamila.giovari@vicentelopez.gov.ar";5826;377;True;"";2025-02-14 15:45:00,000
+45388;"Leonardo Diego";"Troncoso";"leonardo.troncoso@vicentelopez.gov.ar";5813;377;True;"";2025-02-14 15:45:32,000
+45389;"CRISTIAN JAVIER";"GUTIERREZ";"cristian.gutierrez@vicentelopez.gov.ar";5814;377;True;"";2025-02-14 15:46:07,000
+45390;"SANTIAGO EZEQUIEL";"FIGUEROA";"santiago.figueroa@vicentelopez.gov.ar";5815;377;True;"";2025-02-14 15:46:50,000
+45391;"SEBASTIAN ARIEL";"RENTERO";"sebastian.rentero@vicentelopez.gov.ar";5815;377;True;"";2025-02-14 15:47:26,000
+45392;"PATRICIA";"CALDARINI";"patricia.caldarini@vicentelopez.gov.ar";5817;377;True;"";2025-02-14 15:47:58,000
+45393;"MARIA DE LOS ANGELES";"DEBERNARDINI";"maria.debernardini@vicentelopez.gov.ar";5818;377;True;"";2025-02-14 15:48:36,000
+45394;"MARIA ALEJANDRA";"GONZALEZ";"mariaa.gonzalez@vicentelopez.gov.ar";5894;377;True;"";2025-02-14 15:49:03,000
+45395;"CLAUDIO";"CARLONI";"claudio.carloni@vicentelopez.gov.ar";5895;377;True;"";2025-02-14 15:49:28,000
+45396;"LILIANA";"Rodriguez";"liliana.rodriguez@vicentelopez.gov.ar";5894;377;True;"";2025-02-14 15:49:57,000
+45397;"NORA";"STROLL";"nora.stroll@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:50:27,000
+45398;"YESICA SABRINA";"ACUÑA";"yesica.acuna@vicentelopez.gov.ar";5822;377;True;"";2025-02-14 15:50:51,000
+45399;"CHRISTIAN YAMIL";"SAID";"cristhian.said@vicentelopez.gov.ar";5823;377;True;"";2025-02-14 15:51:23,000
+45400;"MARIA SOLEDAD";"ALEJANDRO";"msoledad.alejandro@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:51:50,000
+45401;"VIVIANA MABEL";"BERNHARDT";"viviana.bernhardt@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:52:18,000
+45402;"EDUARDO ALBERTO";"DELBREIL";"eduardo.delbreil@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:52:47,000
+45403;"MARIA LOURDES";"GARAY";"mlourdes.garay@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:53:11,000
+45404;"PABLO MATIAS";"PAZ";"pablo.paz@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:53:42,000
+45405;"EDUARDO ANGEL";"PODEROSO";"eduardo.poderoso@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:54:12,000
+45406;"NADIA GERALDINA";"SALERNO";"nadia.salerno@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:54:37,000
+45407;"NICOLAS ALBERTO";"SENINI";"nicolas.senini@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 15:55:03,000
+45408;"VICTOR";"DI MARCO";"victor.dimarco@vicentelopez.gov.ar";5824;377;True;"";2025-02-14 15:55:32,000
+45409;"MARIA ISABEL";"CASASNOVAS";"misabel.casasnovas@vicentelopez.gov.ar";5824;377;True;"";2025-02-14 15:55:57,000
+45410;"TOMAS NAHUEL";"BUGATTI";"thomas.bugatti@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:56:29,000
+45411;"YANINA SOLEDAD";"DEL AMA";"yanina.delama@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:57:26,000
+45412;"LEANDRO NORBERTO";"BUISAN";"leandro.buisan@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:57:51,000
+45413;"SILVIO HERNAN";"DI MATEO";"silvio.dimatteo@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:58:22,000
+45414;"EDUARDO GUSTAVO";"DE NADAI";"eduardo.denadai@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:58:47,000
+45415;"VERONICA CABRERA";"MARCHAND";"veronica.cabrera@vicentelopez.gov.ar";5825;377;True;"";2025-02-14 15:59:15,000
+45416;"HORACIO PABLO";"REYES";"horacio.reyes@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 16:00:35,000
+45417;"MATIAS EZEQUIEL";"LIVERA";"matias.livera@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 16:01:01,000
+45418;"Miguel Angel";"BEKER";"miguel.beker@vicentelopez.gov.ar";5829;377;True;"";2025-02-14 16:01:33,000
+45419;"CESAR ORLANDO";"NUÑE";"cesar.nune@vicentelopez.gov.ar";5896;377;True;"";2025-02-14 16:01:57,000
+45420;"JUAN IGNACIO";"LOPEZ";"jignacio.lopez@vicentelopez.gov.ar";5830;377;True;"";2025-02-14 16:02:26,000
+45439;"EDUARDO DANIEL";"ARNICA";"eduardo.arnica@vicentelopez.gov.ar";5871;377;True;"";2025-02-17 16:03:39,000
+45448;"Laura";"SCHULTZ";"laura.schultz@vicentelopez.gov.ar";5831;377;True;"";2025-02-18 11:28:25,000
+45466;"DEBORA NATALI";"GIORGI";"debora.giorgi@vicentelopez.gov.ar";5892;377;True;"";2025-02-19 13:44:33,000
+45481;"ANGELA ROMINA";"ORELLANO";"angela.orellano@vicentelopez.gov.ar";5892;377;True;"";2025-02-21 11:05:28,000
+45482;"PABLO IGNACIO";"FACCIOLI";"pablo.faccioli@vicentelopez.gov.ar";5893;377;True;"";2025-02-21 11:09:36,000
+45483;"VICTOR ADRIAN";"DIAZ";"victora.diaz@vicentelopez.gov.ar";5893;377;True;"";2025-02-21 11:19:29,000
+45484;"DAMIAN LEONARDO";"FISCELLA";"damian.fiscella@vicentelopez.gov.ar";5893;377;True;"";2025-02-21 11:26:25,000
+45488;"PATRICIA ANGELA";"ALVAREZ";"patricia.alvarez@vicentelopez.gov.ar";5853;377;True;"";2025-02-21 15:56:16,000
+45507;"NOEMÍ ALEJANDRA";"CENTENO";"noemi.centeno@vicentelopez.gov.ar";5892;377;True;"";2025-02-24 14:04:40,000
+45556;"Pamela Cecilia";"VILLAGRA";"pamela.villagra@vicentelopez.gov.ar";5843;377;True;"";2025-02-26 10:16:34,000
+45566;"Sergio";"Yomayel";"sergio.yomayel@vicentelopez.gov.ar";6063;377;True;"";2025-02-26 15:22:37,000
+45567;"JORGE";"Piersanti";"jorge.piersanti@vicentelopez.gov.ar";6064;377;True;"";2025-02-26 15:24:57,000
+45568;"Leandro Jorge";"MARTIN";"leandro.martin@vicentelopez.gov.ar";6062;377;True;"";2025-02-26 15:27:52,000
+45578;"JUAN MARTIN";"RAMIREZ";"jmartin.ramirez@vicentelopez.gov.ar";5834;377;True;"";2025-02-27 11:46:12,000
+45593;"Constanza";"Fernandez";"constanza.fernandez@vicentelopez.gov.ar";6086;377;True;"";2025-02-28 16:07:18,000
+45617;"Mirna Denise";"Risek";"mirna.risek@vicentelopez.gov.ar";5801;377;True;"";2025-03-06 11:30:38,000
+45620;"Juan Manuel";"de Benedettis";"juan.debenedettis@vicentelopez.gov.ar";5878;377;True;"";2025-03-06 12:45:24,000
+45720;"Juan";"Escalera";"jescalera";5240;377;True;"";2025-03-10 14:47:20,000
+45721;"CLAUDIO";"Cocchiarella";"ccocchiarella";5240;377;True;"";2025-03-10 14:50:57,000
+45722;"Mario";"Russo";"mariorusso";5240;377;True;"";2025-03-10 14:53:27,000
+46011;"GERARDO";"Juvenal";"gerardojuvenal@yahoo.com.ar";4902;377;True;"";2025-03-20 13:00:44,000
+46117;"JAVIER MARIA";"GUTIERREZ";"javier.gutierrez@vicentelopez.gov.ar";5996;377;True;"";2025-03-27 11:51:00,000
+46118;"MARCELO NICOLAS";"MARIANO";"marcelo.mariano@vicentelopez.gov.ar";5997;377;True;"";2025-03-27 12:20:31,000
+46119;"ELBA HERMINIA";"RIBERA";"elba.ribera@vicentelopez.gov.ar";5998;377;True;"";2025-03-27 12:22:59,000
+46122;"GABRIEL ANDRES";"VANNELLI";"gabriel.vannelli@vicentelopez.gov.ar";5995;377;True;"";2025-03-27 12:28:55,000
+46502;"Luciano Martin";"Terzano Urthiague";"luciano.terzano@vicentelopez.gov.ar";6057;377;True;"";2025-04-15 07:50:17,000
+46504;"Angeles";"MARTINEZ";"angeles.martinez@vicentelopez.gov.ar";6058;377;True;"";2025-04-15 07:54:40,000
+46506;"Santiago";"De Jesus";"santiago.dejesus@vicentelopez.gov.ar";6059;377;True;"";2025-04-15 07:58:04,000
+46507;"Roberto Pedro";"Ehrman";"roberto.ehrman@vicentelopez.gov.ar";6060;377;True;"";2025-04-15 08:02:54,000
+46509;"Maximiliano Gaston";"BRAVO";"maximiliano.bravo@vicentelopez.gov.ar";6061;377;True;"";2025-04-15 08:07:16,000
+46512;"Carlos Alberto";"Granovsky";"carlos.granovsky@vicentelopez.gov.ar";6068;377;True;"";2025-04-15 08:16:59,000
+46514;"Nahuel Oscar";"Ponce";"nahuel.ponce@vicentelopez.gov.ar";6069;377;True;"";2025-04-15 08:22:41,000
+46517;"Luciana";"Blasco";"luciana.blasco@vicentelopez.gov.ar";6070;377;True;"";2025-04-15 08:26:45,000
+46520;"Rocio Soledad";"Fontana";"rocio.fontana@vicentelopez.gov.ar";6072;377;True;"";2025-04-15 08:32:11,000
+46521;"Cristian Dario";"Muscillo";"cristian.muscillo@vicentelopez.gov.ar";6073;377;True;"";2025-04-15 08:34:05,000
+46522;"Antonella Regina";"Del Prete";"antonella.delprete@vicentelopez.gov.ar";1311;377;True;"";2025-04-15 08:37:53,000
+46523;"Ramon Isidro";"Fernandez";"ramon.fernandez@vicentelopez.gov.ar";6074;377;True;"";2025-04-15 08:41:05,000
+46524;"ANTONIO";"Rendon Russo";"antonio.rendon@vicentelopez.gov.ar";6075;377;True;"";2025-04-15 08:43:32,000
+46525;"Paolo";"Barbieri";"paolo.barbieri@vicentelopez.gov.ar";6076;377;True;"";2025-04-15 08:46:15,000
+46526;"Pablo Rafael";"Dramis";"pablo.dramis@vicentelopez.gov.ar";6077;377;True;"";2025-04-15 08:48:38,000
+46527;"Enio";"Vittorini";"enio.vittorini@vicentelopez.gov.ar";6078;377;True;"";2025-04-15 08:50:58,000
+46528;"Laura Mariel";"LOPEZ";"laura.lopez@vicentelopez.gov.ar";6079;377;True;"";2025-04-15 08:53:00,000
+46529;"Luis Alberto Rafael";"Parodi";"luis.parodi@vicentelopez.gov.ar";6080;377;True;"";2025-04-15 08:56:34,000
+46530;"Nahuel Alberto";"Guzman";"nahuel.guzman@vicentelopez.gov.ar";6081;377;True;"";2025-04-15 08:58:48,000
+46531;"Daniel Fernando";"Barbuto";"daniel.barbuto@vicentelopez.gov.ar";6082;377;True;"";2025-04-15 09:01:04,000
+46532;"Miguel Angel";"ALVAREZ";"miguel.alvarez@vicentelopez.gov.ar";6083;377;True;"";2025-04-15 09:03:57,000
+46533;"Maximiliano German";"Hracek";"maximiliano.hracek@vicentelopez.gov.ar";6084;377;True;"";2025-04-15 09:07:05,000
+46534;"Analia Veronica";"Politi";"analia.politi@vicentelopez.gov.ar";6085;377;True;"";2025-04-15 09:09:21,000
+46536;"Katia Silvina";"Seguin";"katia.seguin@vicentelopez.gov.ar";6087;377;True;"";2025-04-15 09:13:07,000
+46552;"Facundo";"Carrillo";"facundo.carrillo@vicentelopez.gov.ar";6088;377;True;"";2025-04-15 14:53:52,000
+46586;"Soledad";"MARTINEZ";"sole.martinez@vicentelopez.gov.ar";6090;377;True;"";2025-04-22 14:38:41,000
+46598;"Micaela";"Molinas";"micaela.molinas@vicentelopez.gov.ar";5877;377;True;"";2025-04-23 15:02:37,000
+46628;"Marcelo";"Dri";"marcelo.dri@vicentelopez.gov.ar";5885;377;True;"";2025-04-24 14:04:51,000
+46834;"MARIA CECILIA";"TAVIL";"mcecilia.tavil@vicentelopez.gov.ar";5885;377;True;"";2025-05-08 11:11:32,000
+46900;"NATALIA";"RAMIREZ";"natalia.ramirez@vicentelopez.gov.ar";5834;377;True;"";2025-05-14 09:31:45,000
+46901;"Analisa";"Salazar";"analisa.salazar@vicentelopez.gov.ar";5834;377;True;"";2025-05-14 09:36:30,000
+46902;"SOFIA";"Ibarburu";"sofia.ibarburu@vicentelopez.gov.ar";5834;377;True;"";2025-05-14 09:42:31,000
+46946;"Prueba";"innovación";"pili.alvarez8a@gmail.com";4530;377;True;"";2025-05-16 14:39:00,000
+46975;"MAXIMILIANO";"LOIUDICE";"maximiliano.loiudice@vicentelopez.gov.ar";5818;377;True;"";2025-05-19 12:17:06,000
+46978;"Debora Belen";"Pita";"debora.pita@vicentelopez.gov.ar";6147;377;True;"";2025-05-19 17:58:16,000
+46979;"MONICA ROSA";"BRIZUELA";"monica.brizuela@vicentelopez.gov.ar";6148;377;True;"";2025-05-19 18:00:15,000
+46980;"JULIETA";"VERGILI DRIANO";"julieta.vergili@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:01:42,000
+46981;"DIEGO MATIAS";"PINNA";"diego.pinna@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:09:11,000
+46982;"MAXIMILIANO OSCAR";"ROMERO";"maximiliano.romero@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:10:12,000
+46983;"LUCIANO DIEGO";"GAFFURI";"luciano.gaffuri@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:11:06,000
+46984;"Cristian";"VILLALBA";"cristian.villalba@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:12:13,000
+46985;"Brain";"Brufau";"braian.brufau@vicentelopez.gov.ar";6149;377;True;"";2025-05-19 18:12:54,000
+46986;"Sabrina";"Ortali";"sabrina.ortali@vicentelopez.gov.ar";6151;377;True;"";2025-05-19 18:14:04,000
+46987;"Adriana";"Metzler";"adriana.metzler@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:15:03,000
+46988;"Luis";"Gimenez";"luis.gimenez@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:15:53,000
+46989;"Carlos";"Rodriguez";"carlosa.rodriguez@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:16:38,000
+46990;"Diego";"LOPEZ";"diego.lopez@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:17:15,000
+46991;"Diana";"Soto";"diana.soto@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:18:06,000
+46992;"MARIA PILAR";"CISNEROS";"mpilar.cisneros@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:18:53,000
+46993;"Valeria";"Mazzei";"valeria.mazzei@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:19:46,000
+46994;"SOFIA";"Vicente";"sofia.vicente@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:20:32,000
+46995;"Tamara";"Nieva";"tamara.nieva@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 18:21:25,000
+46996;"MARIANA MARCELA";"PERELLI";"mariana.perelli@vicentelopez.gov.ar";6153;377;True;"";2025-05-19 18:23:56,000
+46997;"Gustavo Daniel";"Armentano";"gustavo.armentano@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:27:37,000
+46998;"DALMA YANINA";"LEDESMA";"dalma.ledesma@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:28:26,000
+46999;"FERNANDO OSVALDO";"LIEBY";"fernando.lieby@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:29:22,000
+47000;"MARIA CANDELA";"Guerrero";"mcandela.guerrero@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:30:26,000
+47001;"GONZALO";"FERRENTINO";"gonzalo.ferrentino@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:31:15,000
+47002;"GUILLERMO ALEJANDRO";"EVORA";"guillermo.evora@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 18:32:04,000
+47004;"NATALIA ANDREA";"MURIAS";"natalia.murias@vicentelopez.gov.ar";6156;377;True;"";2025-05-19 18:35:18,000
+47005;"Ariel Gaston";"Mosic";"ariel.mosic@vicentelopez.gov.ar";6157;377;True;"";2025-05-19 18:36:03,000
+47006;"Eduardo";"Britos";"eduardo.britos@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:36:44,000
+47007;"Rodolfo Agustin";"Greco";"rodolfo.greco@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:37:30,000
+47008;"Cristian Walter";"Rubilotta";"cristian.rubilotta@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:38:13,000
+47009;"KARENINA ANTONIETA";"SALVANESCHI GARZARELLA";"karenina.salvaneschi@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:39:33,000
+47010;"Fernando Jose";"Barcala";"fernando.barcala@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:40:12,000
+47011;"Carlos Alberto";"AVALO";"carlos.avalo@vicentelopez.gov.ar";6159;377;True;"";2025-05-19 18:41:05,000
+47012;"ENRIQUE DANIEL";"GETINO";"enrique.getino@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:41:57,000
+47013;"GONZALO EZEQUIEL";"RODRIGUES GALDI";"gonzalo.rodrigues@vicentelopez.gov.ar";6160;377;True;"";2025-05-19 18:42:57,000
+47014;"Edgardo Daniel";"Gradwohl";"edgardo.gradwohl@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 18:43:49,000
+47016;"Santiago";"GOMEZ ALUSTIZA";"santiago.gomez@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 19:03:17,000
+47017;"Walter Daniel";"Crespin";"walter.crespin@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 19:04:06,000
+47018;"MALEN";"GOMEZ BLANCO";"malen.gomez@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 19:05:00,000
+47019;"GASTON HORACIO";"CRESPOLA";"gaston.crespola@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 19:06:07,000
+47020;"FEDERICO BRIAN";"BERVIH";"federico.bervih@vicentelopez.gov.ar";6158;377;True;"";2025-05-19 19:10:10,000
+47022;"MARTIN ALEJO";"SAENZ";"martin.saenz@vicentelopez.gov.ar";6161;377;True;"";2025-05-19 19:11:58,000
+47023;"LEILA ROCÍO";"REDES";"leila.redes@vicentelopez.gov.ar";6164;377;True;"";2025-05-19 19:13:02,000
+47024;"ANA CLARISA";"FLORES";"ana.flores@vicentelopez.gov.ar";6164;377;True;"";2025-05-19 19:14:07,000
+47025;"IRIS";"FONTAO";"iris.fontao@vicentelopez.gov.ar";6152;377;True;"";2025-05-19 19:17:55,000
+47026;"LUIS ALBERTO";"CONROTTO";"luis.conrotto@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:18:51,000
+47027;"Analia Veronica";"MONTES";"analia.montes@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:19:31,000
+47028;"Jose Luis";"DIP";"jose.dip@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:20:24,000
+47029;"ROMINA ANDREA";"VALDEZ";"romina.valdez@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:21:16,000
+47030;"PALOMA";"COIAZZET";"paloma.coiazzet@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:21:54,000
+47031;"ARIEL ROBERTO";"GAJDA";"ariel.gajda@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:22:27,000
+47032;"LORENA GRACIELA";"MATAR";"lorena.matar@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:23:12,000
+47033;"JOAQUIN IGNACIO";"SARMIENTO";"joaquin.sarmiento@vicentelopez.gov.ar";6167;377;True;"";2025-05-19 19:23:52,000
+47034;"SILVIA KARINA";"GARCIA";"silvia.garcia@vicentelopez.gov.ar";6155;377;True;"";2025-05-19 19:24:38,000
+47035;"ANDREA PAULA";"TEJERO";"andrea.tejero@vicentelopez.gov.ar";6168;377;True;"";2025-05-19 19:25:48,000
+47036;"DANA TERESA";"MORAN";"dana.moran@vicentelopez.gov.ar";6170;377;True;"";2025-05-19 19:26:36,000
+47061;"LUCIA PAMELA";"VERA";"lucia.vera@vicentelopez.gov.ar";4902;377;True;"";2025-05-20 19:50:14,000
+47094;"Santiago";"RODRIGUEZ MORENO";"santiago.rodriguez@vicentelopez.gov.ar";5800;377;True;"";2025-05-22 08:17:30,000
+47095;"EVELIN";"BUCCI";"evelin.bucci@vicentelopez.gov.ar";5800;377;True;"";2025-05-22 08:25:53,000
+47194;"Ezequiel Dario";"Quiroga";"ezequiel.quiroga@vicentelopez.gov.ar";6259;377;True;"";2025-05-22 15:00:45,000
+47236;"Thiago Emanuel";"Rios";"thiago.rios@vicentelopez.gov.ar";6262;377;True;"";2025-05-28 11:34:26,000
+47237;"Catalina";"Arevalo Espinola";"catalina.arevalo@vicentelopez.gov.ar";6261;377;True;"";2025-05-28 12:16:51,000
+47263;"ANGELA GIULIANA";"STACUL";"angela.stacul@vicentelopez.gov.ar";5826;377;True;"";2025-05-30 09:57:45,000
+47514;"FABIO ALCIDES";"GRIBAUDO";"fabio.gribaudo@vicentelopez.gov.ar";6257;377;True;"";2025-06-13 16:55:49,000
+47515;"WILLIAM JORGE";"AYALAMDP";"william.ayala@vicentelopez.gov.ar";6256;377;True;"";2025-06-13 17:01:23,000
+47539;"MATIAS MIGUEL";"FERREIRA";"matias.ferreira@vicentelopez.gov.ar";6256;377;True;"";2025-06-17 08:26:29,000
+47540;"MAXIMILIANO CLAUDIO";"HERRERA";"maximiliano.herrera@vicentelopez.gov.ar";6256;377;True;"";2025-06-17 08:30:00,000
+47542;"PABLO ALEJANDRO";"TROISI";"pablo.troisi@vicentelopez.gov.ar";6260;377;True;"";2025-06-17 08:49:41,000
+47543;"LEANDRO ADRIAN";"CAMPANELLI";"leandro.campanelli@vicentelopez.gov.ar";6256;377;True;"";2025-06-17 08:56:40,000
+47544;"NAHUEL MATIAS";"ROMERO CORIA";"nahuel.romero@vicentelopez.gov.ar";6256;377;True;"";2025-06-17 09:13:22,000
+47545;"VALENTIN ALBERTO";"PRADOS";"valentin.prados@vicentelopez.gov.ar";6256;377;True;"";2025-06-17 09:21:49,000
+48083;"Cecilia";"Rodriguez";"cecilia.rodriguez@vicentelopez.gov.ar";5875;377;True;"";2025-07-07 15:38:09,000
+48195;"Leandro";"Gómez";"lg@mantelectric.com";5795;377;True;"";2025-07-11 09:36:35,000
+48225;"Melina";"Calidad";"melinamunidigital";5795;377;True;"";2025-07-15 11:32:37,000
+48226;"Geraldine";"VILLALBA";"geraldine.villalba@vicentelopez.gov.ar";5834;377;True;"";2025-07-15 11:47:44,000
+48395;"COOPERATIVA DE";"TRABAJO PUNTANOS LTD";"cooperativatrabajopuntanos";5240;377;True;"";2025-07-24 10:09:16,000
+48459;"Gabriela Lilian";"Orsetti";"gabriela.orsetti@vicentelopez.gov.ar";5834;377;True;"";2025-07-28 08:05:57,000
+48463;"MARIA DE LOS ANGELES";"LUCERO";"mangeles.lucero@vicentelopez.gov.ar";5804;377;True;"";2025-07-28 10:39:52,000
+48634;"Jesús";"Morales";"jesusmorales";4902;377;True;"";2025-08-07 15:47:28,000
+48639;"USUARIO PRUEBA";"AD";"pilar.ochoa@vicentelopez.gov.ar";4530;377;True;"";2025-08-08 08:07:14,000
+48783;"Rosana";"Koch";"rosana.koch@vicentelopez.gov.ar";5884;377;True;"";2025-08-25 09:51:12,000
+48842;"YAMILA SOLEDAD";"DIAZ";"yamila.diaz@vicentelopez.gov.ar";6158;377;True;"";2025-08-27 16:21:33,000
+48844;"GABRIELA LAURA";"CODELUPPI";"gabriela.codeluppi@vicentelopez.gov.ar";6152;377;True;"";2025-08-27 18:57:19,000
+48845;"LUCIANA NOEL";"LATTANZI";"luciana.lattanzi@vicentelopez.gov.ar";6155;377;True;"";2025-08-27 18:58:57,000
+48846;"VICTORIA";"RIZZI DE LA IGLESIA";"victoria.rizzi@vicentelopez.gov.ar";6155;377;True;"";2025-08-27 18:59:56,000
+48847;"MONICA LAURA";"CAMMARATA";"monica.cammarata@vicentelopez.gov.ar";5885;377;True;"";2025-08-27 19:00:54,000
+48848;"LUIS FERNANDO";"MORENO";"luis.moreno@vicentelopez.gov.ar";5885;377;True;"";2025-08-27 19:01:52,000
+48850;"CAROLINA SOLEDAD";"CORTES";"carolina.cortes@vicentelopez.gov.ar";6149;377;True;"";2025-08-27 19:04:11,000
+48851;"GUILLERMO ALEJANDRO";"LUNA";"guillermo.luna@vicentelopez.gov.ar";6161;377;True;"";2025-08-27 19:05:12,000
+48879;"Milena";"Amores";"milena.amores@vicentelopez.gov.ar";6158;377;True;"";2025-08-29 12:19:01,000
+48880;"Damian";"Fanelli";"damian.fanelli@vicentelopez.gov.ar";5822;377;True;"";2025-08-29 12:21:06,000
+48881;"Juan Manuel";"MARTINEZ";"jmanuel.martinez@vicentelopez.gov.ar";6152;377;True;"";2025-08-29 12:23:03,000
+48882;"Agustina";"Luithardt";"agustina.luithardt@vicentelopez.gov.ar";5822;377;True;"";2025-08-29 12:23:12,000
+48883;"Florencia";"Vargas";"florencia.vargas@vicentelopez.gov.ar";6259;377;True;"";2025-08-29 12:25:00,000
+48959;"JUAN MARTIN";"DIAZ";"jmartin.diaz@vicentelopez.gov.ar";6152;377;True;"";2025-08-31 19:18:57,000
+48960;"Daniela";"FALCON";"daniela.falcon@vicentelopez.gov.ar";6259;377;True;"";2025-08-31 19:30:08,000
+51075;"Maximiliano Gaston";"Ragusa";"maximiliano.ragusa@vicentelopez.gov.ar";5826;377;True;"";2025-09-05 09:08:47,000
+51169;"Erika Yanina";"Sosa Villalba";"erikay.sosa@vicentelopez.gov.ar";5834;377;True;"";2025-09-15 10:42:12,000
+51171;"Lucia Macarena";"Gonzalez Foti";"luciam.gonzalez@vicentelopez.gov.ar";5834;377;True;"";2025-09-15 10:58:57,000
+9505;"supervisor";"Vicente Lopez";"supervisorvl";1310;377;True;"";
+9507;"coordinador";"Vicente Lopez";"coordinadorvl";1310;377;True;"";
+35899;"Daniela";"Varela";"dvvicentelopez";4530;377;True;"";2024-01-16 13:07:39,000
+39093;"Nacional Norte";"Construcciones SA";"nacionalnorte";4902;377;True;"30715359819";2024-04-16 14:24:15,000
+41561;"Rocío";"Correa";"rcvicentelopez";4530;377;True;"";2024-07-24 13:02:10,000
+41615;"Mailén";"Villani";"mvvlopez";4988;377;True;"";2024-07-24 18:15:19,000
+41876;"WLADIMIRO SERGIO";"SAWCHUK";"wsawchuk";5240;377;True;"20203175222";2024-08-07 15:40:49,000
+41881;"Finestrini SRL";"Diego Marcelo Andreoli";"finestrini";5240;377;True;"30718065573";2024-08-07 17:05:11,000
+41975;"Miguel Angel";"Prats";"miguel.prats@vicentelopez.gov.ar";4902;377;True;"20296244342";2024-08-12 09:26:07,000
+41976;"Mario";"Anzilutti";"mario.azilutti@vicentelopez.gov.ar";4902;377;True;"20208604792";2024-08-12 09:31:01,000
+42830;"Jose Maria";"Calcagno";"Ausol";5240;377;True;"30677237119";2024-09-03 15:33:30,000
+46254;"Grupo Thor SRL";"Ignacio Rial López";"fcanoves";5240;377;True;"30714351830";2025-04-07 09:47:24,000
+46918;"Brian";"DIAZ";"briandiaz";4775;377;True;"20396769318";2025-05-15 08:53:30,000
+46933;"Brian";"Diaz1";"briand1";4902;377;False;"20396769418";2025-05-15 15:55:13,000
+47070;"TACOVITT";"EMPRENDIMIENTOS S.A.";"tacovitt";4902;377;True;"30715189174";2025-05-21 10:58:46,000
+47206;"Avances Ambientales";"S.A.";"avancesambientales";4902;377;True;"30716098350";2025-05-23 12:28:21,000
+50516;"AutomationMD";"Vicente Lopez";"AutomationMDvl";;377;True;"";2025-09-02 16:47:52,000

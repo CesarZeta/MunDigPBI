@@ -1,0 +1,9 @@
+id_estado;descripcion;tipo
+5;"Sin Asignar";2
+6;"Notificado en OT";2
+7;"Cumplido";2
+8;"Cancelado";2
+9;"Pendiente";2
+10;"Auditado";2
+22;"Incompleto";2
+26;"En Espera";2

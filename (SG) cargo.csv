@@ -1,0 +1,183 @@
+id_cargo;descripcion;id_estructura_municipal
+1310;"Sin asignar - Vicente Lopez";4890
+1311;"Secretaria de Desarrollo Social";764
+4530;"Implementador MuniDigital";4890
+4545;"Configurador MuniDigital";4890
+4660;"Configurador MuniDigital";4890
+4775;"Calidad MuniDigital";4890
+4902;"Inspección de Obra";4150
+5240;"Contratista";4150
+5792;"Inspector de Electromecánica";5610
+5793;"Sub Director de Electromecánica";5610
+5794;"Líder de Área (Secretario/ Director de Área/Concejal) de Electromecánica";5610
+5795;"Operativo/Territorial Mantelectric";5611
+5796;"Líder de Área (Secretario/ Director de Área/Concejal) Gobierno Digital";5612
+5797;"Operativo/Territorial Gobierno Digital";5612
+5798;"Director General - Analisis delictual";5613
+5799;"Líder de Área (Secretario/ Director de Área/Concejal) Seguridad";5613
+5800;"Área Administrativa Seguridad";5613
+5801;"Operativo/Territorial Seguridad";5613
+5802;"Coordinador Observatorio Vial";5614
+5803;"Director de Auditoría y Visualización";5614
+5804;"Control de Zona";5614
+5805;"Administrativo de Datos (tránsito)";5614
+5806;"Administrativo de Datos";5614
+5807;"Asistente de Funcionario - Servicios Públicos";5614
+5808;"Asistente de Funcionario-Subsec.Servicios Públicos";5614
+5809;"Asistente de Funcionario - Subsec. Tránsito";5614
+5810;"Operario de Mantenimiento - Paseo de la Costa";5614
+5811;"Director General Espacios Verdes y Plazas";5614
+5812;"Director de Higiene Urbana";5614
+5813;"Supervisor de Auditoría y Visualización";5614
+5814;"Director Op de Señal. Vial, Semáforos y Alumb Públ";5614
+5815;"sub director Semáforos";5614
+5816;"Supervisor de Semáforos";5614
+5817;"Subdirector Servicios Públicos";5614
+5818;"Administrativo Servicios Públicos";5614
+5819;"Directora General de Proyectos especiales";5614
+5820;"Directora de Proyectos especiales";5614
+5821;"Jefa de barrido Higiene Urbana";5615
+5822;"Administrativa en Higiene Urbana";5615
+5823;"Administrativo en CRM de Higiene Urbana";5615
+5824;"Supervisor de Inspectores Higiene Urbana";5615
+5825;"Inspector Higiene Urbana";5615
+5826;"Inspector de Higiene Urbana A";5615
+5827;"Sub director Arbolado Urbano";5616
+5828;"Analista - Arbolado Urbano";5616
+5829;"Inspector Arbolado Urbano";5616
+5830;"Supervisor de Señalamiento Vial y Semáforos";5617
+5831;"Director de Zoonosis";5618
+5832;"Jefe de chofer zoonosis";5618
+5833;"Supervisor de veredas - Mantenimiento -  Supervisor de Bacheo de Hormigón - Mantenimiento Supervisor de Bacheo Asfáltico - Mantenimiento";5614
+5834;"Operador de Call Center";4151
+5835;"Supervisor de Call Center";4151
+5836;"Director Call Center";4151
+5837;"Delegación Carapachay";4151
+5838;"Delegación Villa Martelli";4151
+5839;"Delegación Olivos";4151
+5840;"Subdelegado Olivos";4151
+5841;"Delegación Munro";4151
+5842;"Delegación Florida Central";4151
+5843;"Delegación Florida Oeste";4151
+5844;"Delegación Puente Saavedra";4151
+5845;"Administrativo Delegaciones - Martelli";4151
+5846;"Administrativo Delegaciones - Florida Oeste";4151
+5847;"Subdelegado Florida Oeste";4151
+5848;"Administrativo Delegaciones - Villa Adelina";4151
+5849;"Relevador Olivos";4151
+5850;"Administrativo Delegaciones - Munro";4151
+5852;"Relevador - Munro";4151
+5853;"Administrativo Delegaciones - Saavedra";4151
+5854;"Relevador - Carapachay";4151
+5855;"Relevador - Carapachay";4151
+5856;"Jefe Administrativo - Villa Adelina";4151
+5857;"DELEGACION VILLA MARTELLI";4151
+5858;"Relevador Florida Oeste";4151
+5859;"Relevador Florida Central";4151
+5860;"Jefe Delegación Olivos";4151
+5861;"Administrativo Delegación Olivos";4151
+5862;"Jefe Delegación Villa Martelli";4151
+5863;"Administrativo Delegaciones Martelli";4151
+5864;"Administrativo Atención al Público - Mesa Entradas";4151
+5865;"Jefe Delegación Florida Central";4151
+5866;"Jefe Administrativo - Florida Central";4151
+5867;"Administrativo Delegaciones - Florida Central";4151
+5868;"Jefe Administrativo - Munro";4151
+5869;"Cajero - Delegaciones - Villa Adelina";4151
+5870;"Jefe administrativo Delegación - Florida Oeste";4151
+5871;"Asesor de Seguimiento de Proyectos";4151
+5872;"Orientador";5619
+5873;"Supervisor Atención al Público - Mesa de Entrada";5619
+5874;"Coordinador Mesa Gral. Entradas y Salidas";5619
+5875;"Dirección General de Gobierno, Adm. y Legislación";5619
+5876;"Analista de Implementación de Prog. Informáticos";5619
+5877;"Community Manager";5620
+5878;"ADMINISTRATIVO ANALISTA";5621
+5879;"Analista Bot";5621
+5880;"Soporte Técnico de Mesa de Ayuda";5612
+5881;"Soporte Técnico de Resolución de Incidente";5612
+5882;"Jefe soporte";5612
+5883;"SUB-SECRETARIO";5612
+5884;"DIRECTOR GENERAL";5612
+5885;"Director";5612
+5886;"ANALISTA DE PROYECTOS";5612
+5887;"Desarrollador";5612
+5888;"JEFE";5612
+5889;"Analista de Arquitectura de Datos";5612
+5890;"Seguimiento de Proyectos - Obras Municipales (Nº Prov. 8103)";4150
+5891;"DIRECTOR GENERAL - Obras municipales";4150
+5892;"DIR.DE ZOONOSIS - Administrativa";5618
+5893;"Dir de Zoonosis - Operativo";5618
+5894;"Administrativa de Mantenimiento vial y Servicios";5622
+5895;"Jefe de conducción en Mantenimiento vial y Servicios";5622
+5896;"Supervisor de barrido Higiene Urbana";5615
+5995;"Director de Desarrollo Sostenible";4151
+5996;"Coordinador Municipio Sustentable";4151
+5997;"Analista de Reciclaje";4151
+5998;"Operativo Desarrollo Sostenible";4151
+5999;"Coordinador de proyecto";4151
+6056;"Secretario de Planeamiento Obras";4150
+6057;"Subsecretario Planeamiento Obras Públicas";4150
+6058;"Secretaria de Salud";5271
+6059;"Secretario de Seguridad";5278
+6060;"Subsecretario de seguridad";5278
+6061;"Subsecretario de Defensa Civil";5725
+6062;"Secretario de Servicios Públicos";5614
+6063;"Subsecretario de Servicios Públicos";5614
+6064;"Subsecretario de tránsito";5726
+6065;"Secretario de Transformación Digital";5612
+6066;"Subsecretaria de Gobierno Digital";5612
+6067;"Subsecretaria de Innovación";5727
+6068;"Secretario de Comunicación";5275
+6069;"Subsecretario de Producción";5728
+6070;"Secretaria de Cultura";5268
+6071;"Subsecretario de Cultura";5268
+6072;"Secretaria de Educación y Empleo";5274
+6073;"Secretario de Deportes";5269
+6074;"Subsecretario de Fortalecimiento Comunitario";5729
+6075;"Subsecretario de Gobierno";5619
+6076;"Secretario General";5619
+6077;"Subsecretario de Desarrollo Económico";5730
+6078;"Secretario de Gobierno Legal Técnica";5276
+6079;"Subsecretario de Legal y Técnica";5276
+6080;"Subsecretario de Participación Ciudadana";5731
+6081;"Subsecretario de Recursos Humanos";5277
+6082;"Subsecretario de Fiscalización";4153
+6083;"Secretario de Hacienda y Finanzas";5270
+6084;"Subsecretario de Hacienda";5270
+6085;"Subsecretaria de Ingresos Públicos";5270
+6086;"Subsecretaria de Plan y Cont. De Gestión";5732
+6087;"Subsecretaria de Atención Ciudadana Calid. Cercania";5621
+6088;"Jefe de Gabinete";4151
+6090;"Intendenta";5733
+6147;"Administrativo de Despacho - Seg. e Higiene";4153
+6148;"Supervisor Inspectores Industria";4153
+6149;"Inspector Seguridad e Higiene Industrial";4153
+6150;"Director Bromatología";4153
+6151;"Coordinador Bromatología";4153
+6152;"Inspector Bromatología";4153
+6153;"Supervisor Administ Política y Control Ambiental";4153
+6154;"Director de Política y Control AmbientalDirector de Política y Control Ambiental";4153
+6155;"Inspector Control Ambiental";4153
+6156;"Supervisor Administrativo";4153
+6157;"Inspector Fiscalización Turno Noche";4153
+6158;"Inspector Fiscalización";4153
+6159;"Supervisor Inspectores Fiscalización";4153
+6160;"Inspector Fiscalización SDF";4153
+6161;"Inspector Publicidad y Propaganda";4153
+6162;"Inspector Antenas";4153
+6163;"Inspector de Calle";4153
+6164;"Inspector Espacio Público";4153
+6165;"Coordinador Publicidad y Propaganda";4153
+6166;"Director de Comercio";4153
+6167;"Inspector Comercio";4153
+6168;"Soporte Técnico Fiscalización y Control";4153
+6169;"Analista de Proyectos - Fiscalización";4153
+6170;"Asesor Gobierno";4153
+6256;"Fumigador";4153
+6257;"Responsable técnico";4153
+6258;"Subdirector";4153
+6259;"Analista Control Ambiental";4153
+6260;"Administrativo - Cajero";4153
+6261;"Supervisor Despacho Comercio";4153
+6262;"Administrativo Mesa de Entradas-Fiscal. y Control";4153

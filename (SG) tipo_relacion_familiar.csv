@@ -1,0 +1,19 @@
+id_tipo_relacion_familiar;descripcion;id_tipo_relacion_familiar_inversa
+1;"Padre/Madre";2
+2;"Hijo/a";1
+7;"Abuelo/a";8
+8;"Nieto/Nieta";7
+9;"Pareja de Padre/Madre";1
+10;"Pareja";10
+11;"Amigo/a";11
+12;"Vecino/a";12
+13;"Otro/a";13
+14;"Hermano/a";14
+15;"Concubino";15
+16;"Conyuge";16
+17;"A cargo";17
+18;"Tio";19
+19;"Sobrino";18
+20;"Cuñado";20
+21;"Yerno/Nuera";22
+22;"Suegro/a";21
